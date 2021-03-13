@@ -1,7 +1,7 @@
 # helm
 #Helm Installation in Amazon linux
 
-git clone 
+git clone https://github.com/Fasishan/helm.git
 cd helm
 mv helm /usr/bin
 helm --help
